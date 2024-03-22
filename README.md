@@ -2,7 +2,7 @@
 
 
 # About Me
-# 안녕하세요
+## 안녕하세요
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://lxxsxynnn.tistory.com)
 
