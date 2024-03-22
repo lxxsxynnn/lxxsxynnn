@@ -4,7 +4,7 @@
 # About Me
 ## 안녕하세요
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://lxxsxynnn.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://github.com/lxxsxynnn/github-readme-tistory-card)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
