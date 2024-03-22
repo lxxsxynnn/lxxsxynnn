@@ -4,7 +4,7 @@
 # About Me
 ## 안녕하세요
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=lxxsxynnn)]([https://lxxsxynnn.tistory.com/])
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=lxxsxynnn)](https://lxxsxynnn.tistory.com/)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
